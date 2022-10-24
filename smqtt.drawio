@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T14:54:57.630Z" agent="5.0 (Macintosh)" etag="QajIbwY4QOjxSgJ_mYRB" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-24T15:15:53.795Z" agent="5.0 (Macintosh)" etag="8fZlx2WrRzUghE6ZkT70" version="20.5.1" type="github" pages="3">
   <diagram id="tA5BFS_OJDV9mWv-sQdB" name="第 1 页">
     <mxGraphModel dx="1651" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -347,6 +347,22 @@
         </mxCell>
         <mxCell id="4Iup1LE9LGIcV76go453-7" value="mq" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#FFFFFF;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
           <mxGeometry x="320" y="399.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Iup1LE9LGIcV76go453-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7B5AeAZpa7m4EFgfTJWf-1" source="4Iup1LE9LGIcV76go453-8" target="7B5AeAZpa7m4EFgfTJWf-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="610" />
+              <mxPoint x="780" y="398" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Iup1LE9LGIcV76go453-10" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4Iup1LE9LGIcV76go453-9">
+          <mxGeometry x="-0.0383" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Iup1LE9LGIcV76go453-8" value="定制化项目" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
+          <mxGeometry x="920" y="580" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
