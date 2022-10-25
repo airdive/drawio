@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T00:40:56.775Z" agent="5.0 (Macintosh)" etag="J1HLMxluGe-KH8YLJpWV" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-25T00:44:11.035Z" agent="5.0 (Macintosh)" etag="wpBWwYYQ55ICUoTD7ud5" version="20.5.1" type="github" pages="3">
   <diagram id="tA5BFS_OJDV9mWv-sQdB" name="第 1 页">
     <mxGraphModel dx="1651" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -215,16 +215,16 @@
         <mxCell id="7B5AeAZpa7m4EFgfTJWf-12" value="Dubbo" style="dashed=1;rounded=1;absoluteArcSize=1;arcSize=20;html=1;verticalAlign=top;align=left;spacingTop=5;spacingLeft=10;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
           <mxGeometry x="170" y="354.5" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="7B5AeAZpa7m4EFgfTJWf-13" value="API网关" style="html=1;align=left;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
+        <mxCell id="7B5AeAZpa7m4EFgfTJWf-13" value="没有使用API网关" style="html=1;align=left;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
           <mxGeometry x="180" y="180" width="550" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7B5AeAZpa7m4EFgfTJWf-14" value="" style="dashed=1;rounded=1;absoluteArcSize=1;arcSize=20;html=1;verticalAlign=top;align=left;spacingTop=5;spacingLeft=10;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
           <mxGeometry x="245" y="90" width="410" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7B5AeAZpa7m4EFgfTJWf-15" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
+        <mxCell id="7B5AeAZpa7m4EFgfTJWf-15" value="dubbo-Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
           <mxGeometry x="220" y="200" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7B5AeAZpa7m4EFgfTJWf-16" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
+        <mxCell id="7B5AeAZpa7m4EFgfTJWf-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
           <mxGeometry x="395" y="200" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7B5AeAZpa7m4EFgfTJWf-17" value="Niginx反向代理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66EBFF;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
@@ -236,7 +236,7 @@
         <mxCell id="7B5AeAZpa7m4EFgfTJWf-19" value="Niginx反向代理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66EBFF;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
           <mxGeometry x="400" y="100" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7B5AeAZpa7m4EFgfTJWf-20" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
+        <mxCell id="7B5AeAZpa7m4EFgfTJWf-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
           <mxGeometry x="580" y="200" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7B5AeAZpa7m4EFgfTJWf-21" value="产品" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
