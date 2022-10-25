@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T00:44:11.035Z" agent="5.0 (Macintosh)" etag="wpBWwYYQ55ICUoTD7ud5" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-25T00:44:56.881Z" agent="5.0 (Macintosh)" etag="6OcsHuQDbDyrG_EECBIy" version="20.5.1" type="github" pages="3">
   <diagram id="tA5BFS_OJDV9mWv-sQdB" name="第 1 页">
     <mxGraphModel dx="1651" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -299,7 +299,7 @@
         <mxCell id="7B5AeAZpa7m4EFgfTJWf-41" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
           <mxGeometry x="200" y="620" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7B5AeAZpa7m4EFgfTJWf-42" value="RocketMQ/Kafka" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
+        <mxCell id="7B5AeAZpa7m4EFgfTJWf-42" value="RabbitMQ/Kafka" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
           <mxGeometry x="600" y="620" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7B5AeAZpa7m4EFgfTJWf-43" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
