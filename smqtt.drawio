@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T04:05:54.242Z" agent="5.0 (Macintosh)" etag="pDcQCKdjNQdt9gcQ1Ck7" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-04T04:11:06.796Z" agent="5.0 (Macintosh)" etag="YUQvRuF9JfZmRjQHyxls" version="20.5.1" type="github" pages="4">
   <diagram id="tA5BFS_OJDV9mWv-sQdB" name="第 1 页">
     <mxGraphModel dx="1651" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -402,6 +402,9 @@
         </mxCell>
         <mxCell id="_fE3SiKgtxtNiOL2Wqwr-15" value="基站" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="_fE3SiKgtxtNiOL2Wqwr-14">
           <mxGeometry x="630" y="930" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_fE3SiKgtxtNiOL2Wqwr-17" value="LBS" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#D5E8D4;image=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg-blog.csdnimg.cn%2Fimg_convert%2F4cc55a0fbf37da32507439e84b398dc3.png&amp;refer=http%3A%2F%2Fimg-blog.csdnimg.cn&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1670126986&amp;t=bbbf4aee637468d3e65abc00d2fb66a6;" vertex="1" parent="_fE3SiKgtxtNiOL2Wqwr-14">
+          <mxGeometry x="860" y="650" width="94.29" height="49.78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
