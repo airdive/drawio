@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T04:11:06.796Z" agent="5.0 (Macintosh)" etag="YUQvRuF9JfZmRjQHyxls" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-04T04:13:21.579Z" agent="5.0 (Macintosh)" etag="9t3dAqJp8krtVlEvp3eA" version="20.5.1" type="github" pages="4">
   <diagram id="tA5BFS_OJDV9mWv-sQdB" name="第 1 页">
     <mxGraphModel dx="1651" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -347,7 +347,7 @@
           <mxGeometry x="30" y="290" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHw_E8t42JjOgyXuIGUg-56" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
-          <mxGeometry x="630" y="650" width="60" height="50" as="geometry" />
+          <mxGeometry x="630" y="640" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_fE3SiKgtxtNiOL2Wqwr-0" value="Ribbon/OpenFeign" style="dashed=1;rounded=1;absoluteArcSize=1;arcSize=20;html=1;verticalAlign=top;align=left;spacingTop=5;spacingLeft=10;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
           <mxGeometry x="310" y="410" width="120" height="120" as="geometry" />
@@ -405,6 +405,9 @@
         </mxCell>
         <mxCell id="_fE3SiKgtxtNiOL2Wqwr-17" value="LBS" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#D5E8D4;image=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg-blog.csdnimg.cn%2Fimg_convert%2F4cc55a0fbf37da32507439e84b398dc3.png&amp;refer=http%3A%2F%2Fimg-blog.csdnimg.cn&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1670126986&amp;t=bbbf4aee637468d3e65abc00d2fb66a6;" vertex="1" parent="_fE3SiKgtxtNiOL2Wqwr-14">
           <mxGeometry x="860" y="650" width="94.29" height="49.78" as="geometry" />
+        </mxCell>
+        <mxCell id="_fE3SiKgtxtNiOL2Wqwr-18" value="http" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_fE3SiKgtxtNiOL2Wqwr-14" source="HHw_E8t42JjOgyXuIGUg-28" target="_fE3SiKgtxtNiOL2Wqwr-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
