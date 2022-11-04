@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T03:28:07.397Z" agent="5.0 (Macintosh)" etag="9uIwbhQBIt1yxnsi03jF" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-04T03:30:28.064Z" agent="5.0 (Macintosh)" etag="olIAMwO6d25phRHQ8Cdf" version="20.5.1" type="github" pages="4">
   <diagram id="tA5BFS_OJDV9mWv-sQdB" name="第 1 页">
     <mxGraphModel dx="1651" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,13 +230,13 @@
         <mxCell id="HHw_E8t42JjOgyXuIGUg-16" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
           <mxGeometry x="395" y="200" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HHw_E8t42JjOgyXuIGUg-17" value="Niginx反向代理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66EBFF;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
+        <mxCell id="HHw_E8t42JjOgyXuIGUg-17" value="Niginx负载均衡" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66EBFF;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
           <mxGeometry x="535" y="100" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HHw_E8t42JjOgyXuIGUg-18" value="Niginx反向代理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66EBFF;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
+        <mxCell id="HHw_E8t42JjOgyXuIGUg-18" value="Niginx负载均衡" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66EBFF;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
           <mxGeometry x="265" y="100" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HHw_E8t42JjOgyXuIGUg-19" value="Niginx反向代理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66EBFF;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
+        <mxCell id="HHw_E8t42JjOgyXuIGUg-19" value="Niginx负载均衡" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66EBFF;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
           <mxGeometry x="400" y="100" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HHw_E8t42JjOgyXuIGUg-20" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
@@ -305,7 +305,7 @@
         <mxCell id="HHw_E8t42JjOgyXuIGUg-41" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
           <mxGeometry x="200" y="620" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HHw_E8t42JjOgyXuIGUg-42" value="RocketMQ/Kafka" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
+        <mxCell id="HHw_E8t42JjOgyXuIGUg-42" value="Kafka" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
           <mxGeometry x="600" y="620" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HHw_E8t42JjOgyXuIGUg-43" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
@@ -325,7 +325,7 @@
         <mxCell id="HHw_E8t42JjOgyXuIGUg-47" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#FFFFFF;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
           <mxGeometry x="755" y="350" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HHw_E8t42JjOgyXuIGUg-48" value="UI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
+        <mxCell id="HHw_E8t42JjOgyXuIGUg-48" value="web UI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
           <mxGeometry x="400" y="30" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HHw_E8t42JjOgyXuIGUg-49" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
