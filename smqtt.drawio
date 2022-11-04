@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T03:34:03.184Z" agent="5.0 (Macintosh)" etag="gCiiKj7PdLHKb0PbU9HT" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-04T03:38:31.780Z" agent="5.0 (Macintosh)" etag="MeOVTlYAWOk0uw6jzfrc" version="20.5.1" type="github" pages="4">
   <diagram id="tA5BFS_OJDV9mWv-sQdB" name="第 1 页">
     <mxGraphModel dx="1651" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -345,10 +345,10 @@
             <mxPoint x="170" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HHw_E8t42JjOgyXuIGUg-54" value="SpringSession" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
+        <mxCell id="HHw_E8t42JjOgyXuIGUg-54" value="SpringSession" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
           <mxGeometry x="30" y="430" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HHw_E8t42JjOgyXuIGUg-55" value="&lt;div&gt;Sleuth&lt;/div&gt;&lt;div&gt;+ Zipkin&lt;br&gt;&lt;/div&gt;&lt;span&gt;链路追踪&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
+        <mxCell id="HHw_E8t42JjOgyXuIGUg-55" value="&lt;div&gt;Sleuth&lt;/div&gt;&lt;div&gt;+ Zipkin&lt;br&gt;&lt;/div&gt;&lt;span&gt;链路追踪&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
           <mxGeometry x="30" y="290" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHw_E8t42JjOgyXuIGUg-56" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
