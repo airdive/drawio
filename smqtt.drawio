@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T04:16:12.551Z" agent="5.0 (Macintosh)" etag="T-wRoR27vyAFQcXKtnFo" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-04T04:16:53.108Z" agent="5.0 (Macintosh)" etag="FquhDUVdksEUTYFMuwxp" version="20.5.1" type="github" pages="4">
   <diagram id="tA5BFS_OJDV9mWv-sQdB" name="第 1 页">
     <mxGraphModel dx="1651" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,7 +204,7 @@
         <mxCell id="HHw_E8t42JjOgyXuIGUg-9" value="" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;fillColor=#FFFFFF;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
           <mxGeometry x="155" y="390" width="590" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HHw_E8t42JjOgyXuIGUg-10" value="限流降级" style="html=1;align=left;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;fillColor=#FFFFFF;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
+        <mxCell id="HHw_E8t42JjOgyXuIGUg-10" value="熔断/降级" style="html=1;align=left;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;fillColor=#FFFFFF;" vertex="1" parent="HHw_E8t42JjOgyXuIGUg-1">
           <mxGeometry x="200" y="290" width="490" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHw_E8t42JjOgyXuIGUg-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="HHw_E8t42JjOgyXuIGUg-1" target="HHw_E8t42JjOgyXuIGUg-54">
