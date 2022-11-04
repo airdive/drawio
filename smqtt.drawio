@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T03:06:58.971Z" agent="5.0 (Macintosh)" etag="pjkk8SS0rzrLGbK0cmmy" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-04T03:08:27.393Z" agent="5.0 (Macintosh)" etag="BjRQup1jIgTnLRoSwTv_" version="20.5.1" type="github" pages="3">
   <diagram id="tA5BFS_OJDV9mWv-sQdB" name="第 1 页">
     <mxGraphModel dx="1651" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -351,7 +351,7 @@
             <mxPoint x="170" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7B5AeAZpa7m4EFgfTJWf-54" value="&lt;div&gt;Redis+token&lt;/div&gt;&lt;div&gt;+refresh_token&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;jwt&lt;/div&gt;&lt;div&gt;拦截器&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
+        <mxCell id="7B5AeAZpa7m4EFgfTJWf-54" value="Spring Session&lt;br&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Redis&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
           <mxGeometry x="30" y="280" width="80" height="180" as="geometry" />
         </mxCell>
         <mxCell id="7B5AeAZpa7m4EFgfTJWf-56" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="7B5AeAZpa7m4EFgfTJWf-1">
