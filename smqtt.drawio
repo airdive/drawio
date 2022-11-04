@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T04:16:53.108Z" agent="5.0 (Macintosh)" etag="FquhDUVdksEUTYFMuwxp" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-04T04:18:09.858Z" agent="5.0 (Macintosh)" etag="Q21S0ayuEGItaxeBoZnG" version="20.5.1" type="github" pages="4">
   <diagram id="tA5BFS_OJDV9mWv-sQdB" name="第 1 页">
     <mxGraphModel dx="1651" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,7 +178,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="云模组" id="zdX45Ed5QZ_V3lfLN4tI">
+  <diagram name="云模组架构" id="zdX45Ed5QZ_V3lfLN4tI">
     <mxGraphModel dx="1238" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HHw_E8t42JjOgyXuIGUg-0" />
